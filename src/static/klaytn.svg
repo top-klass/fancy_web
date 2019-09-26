@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58.74" height="57.979" viewBox="0 0 58.74 57.979">
+    <defs>
+        <style>
+            .cls-1{fill:#ffc645}
+        </style>
+    </defs>
+    <g id="klaytn" transform="translate(-1186.785 -642.3)">
+        <path id="패스_211" d="M1186.785 671.853l27.611-27.638-19.737 47.6s-7.935-6.304-7.874-19.962z" class="cls-1" data-name="패스 211" transform="translate(0 -.476)"/>
+        <path id="패스_212" d="M1221.309 642.3l18.4 7.813-37.109 37.316z" class="cls-1" data-name="패스 212" transform="translate(-3.931)"/>
+        <path id="패스_213" d="M1227.863 674.3l20.046-20.236a27.06 27.06 0 0 1 7.812 20.236c-.411 12.968-8.018 19.958-8.018 19.958z" class="cls-1" data-name="패스 213" transform="translate(-10.212 -2.925)"/>
+        <path id="패스_214" d="M1199.681 702.293l19.838 8.018 19.328-8.121-19.328-19.532z" class="cls-1" data-name="패스 214" transform="translate(-3.206 -10.033)"/>
+    </g>
+</svg>
